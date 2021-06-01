@@ -1,2 +1,2 @@
 # arkanoid
-Game of arcanoid
+Game of arcanoid made in python using Pygame package. Enjoy! 
